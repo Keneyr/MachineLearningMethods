@@ -25,3 +25,21 @@ SVM有三宝：间隔，对偶，核技巧。
 1、非线性带来高维转换
 
 2、对偶表示带来内积
+
+
+
+##BP神经网路
+
+神经网络的话，BP算是特别初级的入门级别算法了。
+
+[MatLab红酒案例](https://www.bilibili.com/video/BV1Jp4y1y7m6?from=search&seid=1164372499231397940)
+
+《一种基于BP神经网络的车牌字符分类识别方法》-2005 计算机科学:
+
+[知乎堆导]（https://zhuanlan.zhihu.com/p/24801814）
+
+## 参考视频
+
+[BP神经网路](https://www.bilibili.com/video/BV1A4411x76J?from=search&seid=1798921675238288346)
+
+
